@@ -23,9 +23,10 @@ Brian Reitz - Helping me understand function calls and interprocess communicatio
 Jared Atkinson - Helping me understand function calls and interprocess communication. 
 
 ### Resources:
-https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/what-does-the-zw-prefix-mean-
-https://specterops.io/assets/resources/Subverting_Sysmon.pdf
-https://blog.xpnsec.com/evading-sysmon-dns-monitoring/
-https://github.com/hunters-forge/OSSEM/tree/master/data_dictionaries/windows/sysmon
-https://docs.google.com/spreadsheets/d/1Y3MHsgDWj_xH4qrqIMs4kYJq1FSuqv4LqIrcX24L10A/edit#gid=0
+* Microsoft Documentation and various function calls and API's. 
+* [Subverting Sysmon by Matt Graeber](https://specterops.io/assets/resources/Subverting_Sysmon.pdf)
+* [Eveading Sysmon DNS Monitoring](https://blog.xpnsec.com/evading-sysmon-dns-monitoring/)
+* [OSSEM Sysmon](https://github.com/hunters-forge/OSSEM/tree/master/data_dictionaries/windows/sysmon)
+* [Roberto Rodriguez's API Research](https://docs.google.com/spreadsheets/d/1Y3MHsgDWj_xH4qrqIMs4kYJq1FSuqv4LqIrcX24L10A/edit#gid=0)
+* [Mauricio Velazco's API Research](https://www.slideshare.net/mvelazco/derbycon-2019)
 
