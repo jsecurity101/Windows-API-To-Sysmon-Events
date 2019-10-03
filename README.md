@@ -18,9 +18,9 @@ These images can be found in within the `API-Mapping-Images` directory.
 ### Credit:
 A big thanks and credit goes out to the following individuals for the help and insight they had on this project:
 
-Matt Graeber - Guiding me through the Reverse Engineering, with walking me through muliple function calls, and verifying many of these call back functions. 
-Brian Reitz - Helping me understand function calls and interprocess communication.
-Jared Atkinson - Helping me understand function calls and interprocess communication. 
+* [Matt Graeber](https://twitter.com/mattifestation) - Guiding me through the Reverse Engineering, with walking me through muliple function calls, and verifying many of these call back functions. 
+* [Brian Reitz](https://twitter.com/brian_psu) - Helping me understand function calls and interprocess communication.
+* [Jared Atkinson](https://twitter.com/jaredcatkinson) - Helping me understand function calls and interprocess communication. 
 
 ### Resources:
 * Microsoft Documentation and various function calls and API's. 
@@ -30,3 +30,5 @@ Jared Atkinson - Helping me understand function calls and interprocess communica
 * [Roberto Rodriguez's API Research](https://docs.google.com/spreadsheets/d/1Y3MHsgDWj_xH4qrqIMs4kYJq1FSuqv4LqIrcX24L10A/edit#gid=0)
 * [Mauricio Velazco's API Research](https://www.slideshare.net/mvelazco/derbycon-2019)
 
+### Feedback:
+Feedback or thoughts are always welcome! 
