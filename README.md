@@ -18,7 +18,7 @@ These images can be found in within the `API-Mapping-Images` directory.
 ### Credit:
 A big thanks and credit goes out to the following individuals for the help and insight they had on this project:
 
-* [Matt Graeber](https://twitter.com/mattifestation) - Guiding me through the Reverse Engineering, with walking me through muliple function calls, and verifying many of these call back functions. 
+* [Matt Graeber](https://twitter.com/mattifestation) - Guiding me through the Reverse Engineering, with walking me through multiple function calls, and verifying many of these call back functions. 
 * [Brian Reitz](https://twitter.com/brian_psu) - Helping me understand function calls and interprocess communication.
 * [Jared Atkinson](https://twitter.com/jaredcatkinson) - Helping me understand function calls and interprocess communication. 
 
