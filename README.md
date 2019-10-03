@@ -10,7 +10,7 @@ These images can be found in within the `API-Mapping-Images` directory.
 
 
 ### Research Notes:
-- API(A) - API accepts ASCII character strings. API(W) - api accepts wide character strings. 
+- API(A) - API accepts ASCII character strings. API(W) - API accepts wide character strings. 
 - Nt(API) - User mode. Zw(API) called from kernel. If Nt(API) Zw is implied.
 - API's listed are ones that were seen within the stack during a breakpoint of the event registration mechanism.
 
