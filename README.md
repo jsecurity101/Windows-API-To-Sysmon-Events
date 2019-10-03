@@ -1,4 +1,4 @@
-# API to Sysmon-EventIDs
+# Windows API's to Sysmon-EventIDs
 A repository that maps API calls to Sysmon Event ID's. 
 
 ## API Mapping Google Sheet: 
