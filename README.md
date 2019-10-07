@@ -4,13 +4,15 @@ A repository that maps API calls to Sysmon Event ID's.
 ## API Mapping Google Sheet: 
 **Mapping process flow is as follows:**
 
-[Mapping](/API-Mapping-Images/Mapping-Overview.png)
+![Mapping](/API-Mapping-Images/Mapping-Overview.png)
 
 **API mapping sheet:**
 [API Data Relationships](https://docs.google.com/spreadsheets/d/1T4sm1freM4KJk9Wu8GNxDQDRPur7159kcUji9pk03xU/edit?usp=sharing)
 
 
 ## API Mapping Images:
+
+
 These images can be found in within the `API-Mapping-Images` directory. 
 
 
