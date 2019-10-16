@@ -1,4 +1,4 @@
-# Windows API's To Sysmon-Events
+# Windows APIs To Sysmon-Events
 A repository that maps API calls to Sysmon Event ID's. 
 
 ## API Mapping: 
