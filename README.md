@@ -1,3 +1,4 @@
+# Project is now deprecated. Please visit [TelemetrySource](https://github.com/jsecurity101/TelemetrySource) for a supported version of this project. 
 # Windows APIs To Sysmon-Events
 A repository that maps API calls to Sysmon Event ID's. 
 
